@@ -39,6 +39,8 @@
 
 📧 Open for **remote cloud architecture & DevOps consulting** projects
 
+📅 **[Schedule 30-min Consultation](https://calendly.com/manjunathsmurthy/30min)** - Free initial consultation for cloud architecture projects
+
 ---
 
 *Building resilient, secure, and cost-optimized cloud infrastructure at scale*
